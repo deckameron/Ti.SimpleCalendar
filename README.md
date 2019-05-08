@@ -43,3 +43,6 @@ button.addEventListener("click", function () {
     calendar.open();
 });
 ```
+
+### Screenshot
+![screenshot](https://github.com/deckameron/Ti.SimpleCalendar/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%206s%20-%202019-05-08%20at%2015.25.31.png)
