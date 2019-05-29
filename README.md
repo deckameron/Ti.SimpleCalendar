@@ -4,7 +4,7 @@ Simple and fully customizable Calendar View for Appcelerator Titanium in JS
 #### Work in progress
 
 - [x] Working on iOS
-- [ ] Working on Android 
+- [x] Working on Android 
 
 ### How to use it
 ```javascript
@@ -44,5 +44,10 @@ button.addEventListener("click", function () {
 });
 ```
 
-### Screenshot
+### Screenshots
+#### iOS
 ![screenshot](https://github.com/deckameron/Ti.SimpleCalendar/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%206s%20-%202019-05-08%20at%2015.25.31.png)
+
+#### Android
+![screenshot](https://github.com/deckameron/Ti.SimpleCalendar/blob/master/Captura%20de%20Tela%202019-05-29%20a%CC%80s%2014.13.17.png)
+
