@@ -36,7 +36,7 @@ calendar.addEventListener("dateSelected", function (c) {
     year : 2019
     string : "2019-05-10"
     */
-    console.log(c);
+    console.log(c.date);
 });
 
 button.addEventListener("click", function () {
